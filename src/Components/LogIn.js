@@ -7,7 +7,7 @@ import Col from 'react-bootstrap/Col';
 // import Form from "react-validation/build/form";
 import Form from 'react-bootstrap/Form'
 // import CheckButton from "react-validation/build/button";
-import Button from "react-bootstrap/button";
+import Button from "react-bootstrap/Button";
 import AuthService from '../Service/AuthService';
 import HeaderGuest from './HeaderGuest';
 
